@@ -29,7 +29,7 @@ php开发经验三年（学习+工作），独立设计实现过多个公司线�
 ## 深圳唯定网络科技有限公司 （ 2017年6月 ~ 2018年4月 ）	
 
 - **工作内容**：负责opencart程序的模版、模块、插件制作，新网站的设计开发
-- **技术栈**：opencart,magento,sopify,ocmod,vqmod,apache等。
+- **技术栈**：opencart,magento,shopify,ocmod,vqmod,apache等。
 
 
 ### misscloth
